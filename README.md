@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhemili
 - 🌱 My first steps on git
-- 🌱 I’m currently learning JAVA OOP
+- 🌱 I’m currently learning JAVA OOP and CSS✨  
 
 <!---
 Jhemili/Jhemili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
