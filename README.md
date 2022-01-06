@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhemili
-- 🌱 My first steps on git
-- 🌱 I’m currently learning JAVA OOP and CSS✨  
+- 🌱 Newbie in programming 🤓
+- 🌱 I’m currently creating a discord Bot with node.js ✨  
 
 <!---
 Jhemili/Jhemili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
